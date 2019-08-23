@@ -1,0 +1,14 @@
+﻿  BakedGood.cpp
+  Bread.cpp
+  CupCake.cpp
+  LayerCake.cpp
+  main.cpp
+c:\users\gabri\source\repos\bread and cakes\bread and cakes\main.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabri\source\repos\bread and cakes\bread and cakes\main.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabri\source\repos\bread and cakes\bread and cakes\main.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabri\source\repos\bread and cakes\bread and cakes\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabri\source\repos\bread and cakes\bread and cakes\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabri\source\repos\bread and cakes\bread and cakes\main.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabri\source\repos\bread and cakes\bread and cakes\main.cpp(184): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Bread and Cakes.vcxproj -> C:\Users\gabri\source\repos\Bread and Cakes\Debug\Bread and Cakes.exe
